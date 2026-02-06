@@ -1,7 +1,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Happy Valentine’s Day Puchku ❤️</title>
+<title>Happy Valentine’s Day Puchkuu ❤️</title>
 
 <style>
 body {
@@ -57,7 +57,7 @@ button {
 
 <div class="card">
     <div class="heart">❤️</div>
-    <h1>Happy Valentine’s Day!</h1>
+    <h1>Happy Valentine’s Day Puchkaaaa</h1>
     <p>You make my world brighter every single day Puchku Tuchku.</p>
 
     <button onclick="showMessage()">Click me</button>
